@@ -1,0 +1,77 @@
+{
+  "_about": "Sample RFP answer-block library. Mirrors how Responsive/Loopio structure a content library: each block is a reusable, owned, dated Q&A pair. Fictional firm 'Meridian Private Markets' so nothing here is confidential.",
+  "blocks": [
+    {
+      "id": "FIRM-001",
+      "category": "Firm Overview",
+      "question": "Please provide an overview of your firm.",
+      "answer": "Meridian Private Markets is a global private markets specialist providing investment solutions, advisory services, and data-driven insights across primary, secondary, and co-investment strategies. Founded in 2007, the firm manages capital on behalf of institutional investors worldwide.",
+      "owner": "SME: Firm Marketing",
+      "last_updated": "2026-05-20",
+      "status": "approved"
+    },
+    {
+      "id": "FIRM-002",
+      "category": "Firm Overview",
+      "question": "How many employees and offices does the firm have?",
+      "answer": "Meridian employs approximately 900 professionals across 26 offices in North America, Europe, and Asia-Pacific.",
+      "owner": "SME: HR Operations",
+      "last_updated": "2025-01-15",
+      "status": "approved"
+    },
+    {
+      "id": "AUM-001",
+      "category": "Assets & Track Record",
+      "question": "What are your total assets under management and advisement?",
+      "answer": "As of the most recent quarter end, Meridian oversaw approximately $185 billion in assets under management and advisement across private equity, private debt, real assets, and infrastructure.",
+      "owner": "SME: Finance",
+      "last_updated": "2024-09-30",
+      "status": "approved"
+    },
+    {
+      "id": "ESG-001",
+      "category": "ESG & Responsible Investing",
+      "question": "Describe your approach to ESG and responsible investing.",
+      "answer": "Meridian integrates ESG considerations across the investment lifecycle, from due diligence through monitoring, and is a signatory to the UN Principles for Responsible Investment. A dedicated responsible-investment team supports deal and portfolio teams.",
+      "owner": "SME: ESG",
+      "last_updated": "2026-04-02",
+      "status": "approved"
+    },
+    {
+      "id": "DD-001",
+      "category": "Investment Process",
+      "question": "Describe your investment due diligence process.",
+      "answer": "Meridian applies a multi-stage diligence process covering manager evaluation, strategy and market positioning, operational review, and financial analysis, with an independent investment committee approving every commitment.",
+      "owner": "SME: Investments",
+      "last_updated": "2026-03-11",
+      "status": "approved"
+    },
+    {
+      "id": "DATA-001",
+      "category": "Technology & Data",
+      "question": "What proprietary data and technology platform supports your investment decisions?",
+      "answer": "Meridian maintains a proprietary private-markets data platform aggregating fund, deal, and operating-company data, surfaced to investment teams through internal dashboards and integrated with external reporting systems via API.",
+      "owner": "SME: Data & Technology",
+      "last_updated": "2026-05-28",
+      "status": "approved"
+    },
+    {
+      "id": "FEE-001",
+      "category": "Fees & Terms",
+      "question": "What is your standard fee structure?",
+      "answer": "Fees vary by mandate and structure. Meridian offers separately managed accounts and commingled vehicles with management and performance fees negotiated based on commitment size and scope of services.",
+      "owner": "SME: Legal",
+      "last_updated": "2023-11-04",
+      "status": "needs_review"
+    },
+    {
+      "id": "CYBER-001",
+      "category": "Operations & Security",
+      "question": "Describe your information security and cybersecurity program.",
+      "answer": "Meridian maintains an information-security program aligned to industry frameworks, including access controls, encryption, employee training, and third-party penetration testing, overseen by a dedicated security function.",
+      "owner": "SME: IT Security",
+      "last_updated": "2026-02-18",
+      "status": "approved"
+    }
+  ]
+}
